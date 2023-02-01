@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatShulu, i'm new here, currently at the begining of a 2 years formation with Ada tech school :D
-- 👀 I’m interested in Web Developpement, maybe enven software developpement in the future !
-- 🌱 I’m currently learning many language Html, Css, Javascript & Python
+- 👀 I’m interested in Back-end Developpement, maybe mobile developpement in the future !
+- 🌱 I’m currently learning many language Html, Css, Javascript, Python, C, PHP....
 - 💞️ I’m looking to collaborate on Learning new things and have fun with code
 
 <!---
