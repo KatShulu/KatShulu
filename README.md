@@ -1,4 +1,5 @@
-##Hi there! 👋##
+Hi there! 👋
+---------------
 My name is __@KatShulu__ and I am a passionate learner currently enrolled in a __2-year formation program__ with Ada tech school. My interests lie in the realm of __back-end development__, and I am excited to explore the possibility of __mobile development__ in the future.
 
 I am currently learning various programming languages such as:
