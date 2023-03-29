@@ -11,6 +11,8 @@ I am currently learning various programming languages such as:
 * C
 * PHP
 * SQL
+* Symfony
+* React
 
 I am eager to collaborate with others who share the same love for coding and are looking to __expand their knowledge__. I am always on the lookout for __new learning opportunities and challenges__ to help me grow as a developer.
 
